@@ -1,0 +1,23 @@
+[33mcommit ecf0597a5658b11670b0561ff905b85984fcc8b8[m[33m ([m[1;36mHEAD -> [m[1;32mtest-branch[m[33m)[m
+Author: Ooku <hubert.lisiecki@gmail.com>
+Date:   Sat Oct 6 11:54:38 2018 +0200
+
+    Add Window.java
+
+[33mcommit eec7ddfe47bd3e8b106adda08f9430744998f42b[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Ooku <hubert.lisiecki@gmail.com>
+Date:   Sat Oct 6 11:36:32 2018 +0200
+
+    Add missing test folder
+
+[33mcommit 28d3a1183f2396e1fd7021ac28e0a5f9bfe45f5b[m
+Author: Ooku <hubert.lisiecki@gmail.com>
+Date:   Sat Oct 6 11:31:35 2018 +0200
+
+    Create MainTest.java in test; Rename App to Main.java + Create AnotherClassTest.java in src
+
+[33mcommit 7397b29f742af039ecc3f5ae738d50141eee957c[m
+Author: Ooku <hubert.lisiecki@gmail.com>
+Date:   Sat Oct 6 10:55:42 2018 +0200
+
+    init files
